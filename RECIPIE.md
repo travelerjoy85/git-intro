@@ -8,9 +8,3 @@ Here are some gradients:
     * 1 tbsp paprika
     * 1 tbsp cumin
     
-# Tabbouleh
-
-    * parsley
-    * onions
-    * eggs
-    * veggie
