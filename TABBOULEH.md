@@ -4,3 +4,4 @@
     * onions
     * eggs
     * veggie
+    * olive oil
