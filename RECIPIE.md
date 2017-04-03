@@ -6,7 +6,7 @@ Here are some gradients:
     * red onions
     * ground lamb
     * 1 tbsp paprika
-    * 1 tbsp cumin
+    * 1 tbsp coriander
     
 # Tabbouleh
 
